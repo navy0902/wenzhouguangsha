@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+		*{
+			padding:0px;
+			margin:0px auto;
+		}
+		body{
+			width:867px;
+			background:#42545E;
+				
+			}
+		.header{
+			background-color:#096;	
+			}
+		.nav{
+			background-color:#2D6284;
+			width:867px;
+			height:51px;
+			color:#999;
+			}
+		a{
+			color:#fff;	
+			font-weight:bold;
+			background:#2D6284;
+			text-align:center;
+			height:51px;
+			line-height:51px;
+			text-decoration:none;
+			}
+		.shou{
+			margin-left:30px;	
+			}
+		.guan{
+			margin-left:30px;	
+			}
+		.xin{
+			margin-left:30px;	
+			}
+		.lou{
+			margin-left:30px;	
+			}
+		.ren{
+			margin-left:30px;	
+			}
+		.lian{
+			margin-left:30px;	
+			}
+		.liu{
+			margin-left:30px;	
+			}
+		.content{
+			height:690px;
+			background:#fff;	
+				}
+		.content_lef{
+			width:248px;
+			height:668px;
+			padding-top:20px;
+			float:left;
+			border-right:1px solid #999;
+			}
+		.content_rig{
+			width:590px;
+			height:690px;
+			
+			float:right;	
+			}
+		.content_rig .top{
+			width:100px;
+			height:45px;
+			float:left;	
+			margin-top:12px;
+			}
+		.content_rig .cen{
+			float:left;
+			
+			}
+		.content_rig .cen a{
+			color:blue;
+			background:#fff;	
+			}
+		.footer{
+			background:url(../images/footer1.gif) repeat-y;
+			height:110px;
+			width:867px;
+			}
+		.footer .footer_top{
+			width:867px;
+			height:40px;
+			background:url(../images/footer2.gif) no-repeat;
+			margin-top:10px;
+			}
+		.footer .footer_bot{
+			float:right;
+			color:#fff;
+			margin-right:14px;	
+			}/* CSS Document */
+

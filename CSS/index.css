@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* CSS Document */
+		*{
+			padding:0px;
+			margin:0px auto;
+		}
+		body{
+			width:867px;
+			background:#42545E;
+				
+			}
+		.header{
+			background-color:#096;	
+			}
+		.nav{
+			background-color:#2D6284;
+			width:867px;
+			height:51px;
+			color:#999;
+			}
+		a{
+			color:#fff;	
+			font-weight:bold;
+			background:#2D6284;
+			text-align:center;
+			height:51px;
+			line-height:51px;
+			text-decoration:none;
+			}
+		.shou{
+			margin-left:30px;	
+			}
+		.guan{
+			margin-left:30px;	
+			}
+		.xin{
+			margin-left:30px;	
+			}
+		.lou{
+			margin-left:30px;	
+			}
+		.ren{
+			margin-left:30px;	
+			}
+		.lian{
+			margin-left:30px;	
+			}
+		.liu{
+			margin-left:30px;	
+			}
+		.content{
+				height:490px;	
+				}
+		.sidebar{
+			width:251px;
+			height:490px;
+			background-color:#fff;
+			float:left;
+			
+			}
+		.border{
+			width:220px;
+			height:480px;
+			border-right:1px solid #666;	
+			}
+		.sidebar_top{
+			width:218px;
+			height:40px;
+			border-right:none;
+			margin-left:18px;
+			float:left;
+		
+			margin-top:20px;	
+			}
+		.sidebar_top1{
+			width:180px;
+			height:80px;
+			margin-left:18px;
+			border-right:1px solid #CCC;
+			float:left;	
+			}
+		.sidebar_center{
+			width:220px;
+			height:240px;
+			float:left;
+			margin-left:18px;
+			
+			margin-bottom:8px;	
+			}
+		.sidebar_center{
+			color:#A0A0A0;
+			border-right:1px solid #CCC;
+			}
+		.sidebar_bottom ul{
+			color:#A0A0A0;
+			border-top:1px solid #CCC;	
+			}
+		.sidebar_center li{
+			list-style:none;
+			font-size:12px;
+			height:24px;	
+			}
+		.sidebar_bottom li{
+			list-style:none;
+			font-size:14px;
+			height:26px;	
+			}
+			
+		.sidebar_bottom{
+			width:180px;
+			height:100px;
+			float:left;	
+			margin-left:18px;	
+			}
+		.news{
+			width:313px;
+			height:300px;
+			background-color:#fff;
+			float:left;
+			}
+		
+		.news_top{
+			width:254px;
+			height:30px;
+			margin-top:12px;	
+			}
+		.news_bottom{
+			border-right:1px solid #666;	
+			}
+		.news_bottom li{
+			list-style:none;
+			margin-left:25px;
+			 	
+			font-size:12px;
+			color:#666;
+			height:20px;
+			}
+		.news_bottom li.ziti{
+			color:#FEC04D;
+			font-weight:bold;	
+			}
+		.news_bottom li.suojin{
+			margin-left:25px;	
+			}
+		.about{
+			width:303px;
+			height:300px;
+			background-color:#fff;
+			float:right;
+			}
+		
+		.about_top{
+			width:254px;
+			height:30px;
+			
+			margin-top:10px;	
+			}
+		.about_cen{
+			width:254px;
+			height:100px;
+				
+			}
+		.about_bot{
+			width:254px;
+			height:140px;
+			color:#666;	
+			font-size:14px;
+			margin-top:4px;
+			
+					}
+		.estate{
+			width:616px;
+			height:190px;
+			background-color:#fff;
+			float:right;
+			
+			}
+		.estate_border{
+			width:590px;
+			height:185px;
+			border-top:1px solid #666;	
+			}
+		.estate_lef{
+			width:270px;
+			height:166px;
+			
+			margin-top:8px;
+			margin-left:30px;
+			background:url(../images/estate.gif) no-repeat;
+			background-size:contain;
+			float:left;	
+			}
+		.estate_right{
+			width:250px;
+			height:166px;
+			
+			margin-top:8px;
+			margin-right:30px;
+			float:right;	
+			}
+		.estate_right li{
+			list-style:none;
+			font-size:14px;
+			color:#666;	
+			}
+		.footer{
+			background:url(../images/footer1.gif) repeat-y;
+			height:110px;
+			width:867px;
+			}
+		.footer .footer_top{
+			width:867px;
+			height:40px;
+			background:url(../images/footer2.gif) no-repeat;
+			margin-top:10px;
+			}
+		.footer .footer_bot{
+			float:right;
+			color:#fff;
+			margin-right:14px;	
+			}
